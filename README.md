@@ -1,1 +1,1 @@
-# Graph-algorithms
+# Graph algorithms
